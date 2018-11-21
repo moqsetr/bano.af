@@ -1,0 +1,268 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"signup",
+				"signup-popup-box"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/laravel-projects/Bano-Project/bano.afApp/src/app/app.component.html",
+			"settings":
+			{
+				"buffer_size": 63,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "import { NgModule } from '@angular/core';\nimport { Routes, RouterModule } from '@angular/router';\n\nconst routes: Routes = [\n  { path: '', redirectTo: 'home', pathMatch: 'full' },\n  { path: 'home', loadChildren: './home/home.module#HomePageModule' },\n];\n\n@NgModule({\n  imports: [RouterModule.forRoot(routes)],\n  exports: [RouterModule]\n})\nexport class AppRoutingModule {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                }\n",
+			"file": "/C/xampp/htdocs/laravel-projects/Bano-Project/bano.afApp/src/app/app-routing.module.ts",
+			"file_size": 372,
+			"file_write_time": 131868799640000000,
+			"settings":
+			{
+				"buffer_size": 10819,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/laravel-projects/Bano-Project/bano.afApp",
+		"/C/xampp/htdocs/laravel-projects/Bano-Project/bano.afApp/src",
+		"/C/xampp/htdocs/laravel-projects/Bano-Project/bano.afApp/src/app"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/laravel-projects/bano.af/routes/web.php",
+		"/C/xampp/htdocs/laravel-projects/bano/resources/views/contact.blade.php",
+		"/C/xampp/htdocs/laravel-projects/bano/resources/views/cart.blade.php",
+		"/C/xampp/htdocs/laravel-projects/bano/resources/views/blog.blade.php",
+		"/C/xampp/htdocs/laravel-projects/bano/resources/views/blog-detail.blade.php",
+		"/C/xampp/htdocs/laravel-projects/bano/resources/views/about.blade.php",
+		"/C/xampp/htdocs/laravel-projects/bano/resources/views/product.blade.php",
+		"/C/xampp/htdocs/laravel-projects/bano/resources/views/product-detail.blade.php",
+		"/C/xampp/htdocs/laravel-projects/bano/resources/views/home.blade.php",
+		"/C/xampp/htdocs/laravel-projects/bano/routes/web.php",
+		"/C/xampp/htdocs/laravel-projects/bano/app/Http/Controllers/PagesController.php",
+		"/C/Users/Abdul Muqset Rahimi/Desktop/AIT job/contact.html",
+		"/C/Users/Abdul Muqset Rahimi/Desktop/AIT job/faq.html",
+		"/C/Users/Abdul Muqset Rahimi/Desktop/AIT job/about.html",
+		"/C/Users/Abdul Muqset Rahimi/Desktop/AIT job/index.html",
+		"/C/Users/Abdul Muqset Rahimi/Downloads/jobhunt-html/index.html",
+		"/C/Users/Abdul Muqset Rahimi/Desktop/AIT job/job_list_modern.html",
+		"/C/Users/Abdul Muqset Rahimi/Desktop/AIT job/job_single2.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/laravel-projects/Bano-Project/bano.afApp/src/app/app.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 63,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/laravel-projects/Bano-Project/bano.afApp/src/app/app-routing.module.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10819,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10816,
+								10816
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3698.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": ".editorconfig.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 118.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
